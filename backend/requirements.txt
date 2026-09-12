@@ -33,7 +33,7 @@ pycrdt==0.13.1
 redis==8.0.0
 
 APScheduler==3.11.2
-RestrictedPython==8.2
+RestrictedPython==8.3a1.dev0
 pytz==2026.2
 
 loguru==0.7.3
@@ -59,7 +59,7 @@ opensearch-py==3.2.0
 
 transformers==5.10.1
 sentence-transformers==5.5.1
-accelerate==1.13.0
+accelerate==1.15.0
 pyarrow==23.0.1 # fix: pin pyarrow version to 20 for rpi compatibility #15897
 einops==0.8.2 
 
